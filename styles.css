@@ -1,0 +1,27 @@
+* {
+  background-color:pink;
+  font-family: monospace;
+}
+
+h1{
+  color:green;
+  text-align:center;
+}
+
+h3 {
+  color:green;
+  text-align:center;
+}
+
+table {
+  border:1px solid green; 
+}
+
+th {
+  border:1px solid green;
+  background-color:green;
+}
+
+td {
+  border:1px solid green;
+} 
